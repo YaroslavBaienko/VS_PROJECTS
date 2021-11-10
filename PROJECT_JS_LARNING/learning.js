@@ -30,13 +30,13 @@ function printRectangleInfo(a, b) {
 
 // getRectangleSquare(3, 4);
 
-function buildHouse(numberOfFloors) {
-  const house = `${numberOfFloors}--floors house`;
-  return house;
-}
+// function buildHouse(numberOfFloors) {
+//   const house = `${numberOfFloors}--floors house`;
+//   return house;
+// }
 
-const smallHouse = buildHouse(2);
-const bigHouse = buildHouse(9);
+// const smallHouse = buildHouse(2);
+// const bigHouse = buildHouse(9);
 
-console.log(smallHouse);
-console.log(bigHouse);
+// console.log(smallHouse);
+// console.log(bigHouse);
