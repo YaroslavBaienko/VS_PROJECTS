@@ -40,5 +40,3 @@ const bigHouse = buildHouse(9);
 
 console.log(smallHouse);
 console.log(bigHouse);
-
-console.log('444');
