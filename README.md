@@ -8,6 +8,3 @@ WebPack
 JavaScript
 React.js
 Node.js
-
-
-
